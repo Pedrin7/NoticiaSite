@@ -1,0 +1,16 @@
+.logo{
+    font-family:Raleway ;
+    font-size: 3rem;
+    color: black;
+
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url(../fontes/Raleway/Raleway-Italic-VariableFont_wght.ttf);
+}
+
+.carousel-caption{
+    background-color:black;
+    
+}
